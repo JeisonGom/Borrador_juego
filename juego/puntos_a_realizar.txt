@@ -1,0 +1,5 @@
+añadir obstaculos y enemigos
+puntajes y niveles
+efectos de sonido y musica
+mejorar animaciones
+pantalla de inicio y fin del juego
